@@ -77,6 +77,8 @@ public class Day6_Practice {
 	    }
 	    
 	    scan.close();
+	    
+	    System.out.println("Hello Git!!");
 		
 		
 		
